@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/sjapanwala/IProtoFetch/assets/92124191/40bdd4e2-8a6a-4310-add9-758598952a9b"
+  <img src="https://github.com/sjapanwala/iprotofetch-public/assets/92124191/f3a88b81-59f9-4143-80e2-fc72ea3badc1"
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Version-2024.01-purple">
