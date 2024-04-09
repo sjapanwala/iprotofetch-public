@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/Networking-purple">
 </p>
 
-![Watch This Video](https://www.youtube.com/watch?v=dwPTLZOqk0U&ab_channel=saaimm)
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=dwPTLZOqk0U&ab_channel=saaimm" type="video/mp4">
+</video>
   
 ## Download Here
 - [MediaFire Download Link](https://www.mediafire.com/file/8m66vypvctw9bna/iprotofetch.exe/file)
