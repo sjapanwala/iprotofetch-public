@@ -8,13 +8,6 @@
 <img src="https://img.shields.io/badge/IP%20Address-purple">
 <img src="https://img.shields.io/badge/Networking-purple">
 </p>
-<p align="center">
-  <video width="500px" height="400px" controls="controls">
-        <source 
-src="<iframe width="560" height="315" src="https://www.youtube.com/embed/dwPTLZOqk0U?si=tK5F52WKhBYbbVKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
-                type="video/mp4" />
-       </video>
-</p>
 ## Download Here
 - [MediaFire Download Link](https://www.mediafire.com/file/8m66vypvctw9bna/iprotofetch.exe/file)
 - [GitHub Download Link](https://github.com/sjapanwala/iprotofetch-public/blob/main/iprotofetch.exe)
